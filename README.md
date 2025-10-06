@@ -18,7 +18,7 @@ Loyiha orqali:
 - **Power BI** – interaktiv dashboardlar yaratish uchun
 
   
-🏦 Loyiha maqsadi
+#🏦 Loyiha maqsadi
 
 O‘zbekiston hududlarida bank xizmatlarini samarali taqsimlash
 
@@ -26,13 +26,13 @@ Har bir tumanda yangi filial ochish joyini aniqlash
 
 Bank rahbarlari uchun vizual, tushunarli tahliliy hisobot taqdim etish
 
-📬 Aloqa
+##📬 Aloqa
 
 Muallif: Yorqinoy Safarova
 Yo‘nalish: Data Visualization / Power BI / Python
 GitHub: github.com/yorqinoyyy
 
-💡 Natija
+##💡 Natija
 
 Loyiha yakunida siz quyidagi natijalarga erishasiz:
 
