@@ -29,7 +29,9 @@ Bank rahbarlari uchun vizual, tushunarli tahliliy hisobot taqdim etish
 ## 📬 Aloqa
 
 Muallif: Yorqinoy Safarova
+
 Yo‘nalish: Data Visualization / Power BI / Python
+
 GitHub: github.com/yorqinoyyy
 
 ##💡 Natija
