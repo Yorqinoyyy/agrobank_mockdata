@@ -40,6 +40,6 @@ Loyiha yakunida siz quyidagi natijalarga erishasiz:
 
 Toza va strukturali bank ma’lumotlar bazasi
 
-Interaktiv tahliliy dashboardlar
+Interaktiv tahliliy dashboardlar 
 
 Qayerda yangi filial ochish kerakligini aniqlaydigan vizual hisobot
