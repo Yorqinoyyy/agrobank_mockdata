@@ -13,7 +13,7 @@ Loyiha orqali:
 ## 🧠 Foydalanilgan texnologiyalar
 - **Python** – ma’lumotlarni qayta ishlash va tahlil qilish uchun   
 - **Pandas** – ma’lumotlarni tozalash va strukturalash uchun  
-- **NumPy** – hisob-kitoblar uchun   
+- **NumPy** – hisob-kitoblar uchun     
 - **Seaborn & Matplotlib** – vizualizatsiya uchun  
 - **Power BI** – interaktiv dashboardlar yaratish uchun
 
